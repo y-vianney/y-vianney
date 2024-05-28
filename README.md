@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yann Adjumany</h1>
-<h3 align="center">A passionate developer from Côte d'Ivoire</h3>
+<h3 align="center">A beginner from Côte d'Ivoire</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=y-vianney&label=Profile%20views&color=0e75b6&style=flat" alt="y-vianney" /> </p> -->
 
