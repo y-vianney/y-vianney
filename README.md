@@ -13,8 +13,10 @@
 
 - 📫 How to reach me **adjumanyyann21@gmail.com**
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-vianney&show_icons=true&locale=en&layout=compact" alt="y-vianney" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-vianney&show_icons=true&locale=en" alt="y-vianney" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y-vianney&" alt="y-vianney" /></p>
