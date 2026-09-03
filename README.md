@@ -8,7 +8,6 @@ Building software with **AI, automation** & **real-time data.**
 `TypeScript` `Angular` `React` `Laravel` `Node.js` `Python` `C`
 `PostgreSQL` `Prisma` `Docker` `Linux`
 
-### 💡
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=y-vianney&show_icons=true&hide_border=true&theme=transparent" height="160"/>
