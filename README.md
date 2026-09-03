@@ -3,12 +3,6 @@
 
 Building software with **AI, automation** & **real-time data.**
 
-### ⛓ Stack
-
-`TypeScript` `Angular` `React` `Laravel` `Node.js` `Python` `C`
-`PostgreSQL` `Prisma` `Docker` `Linux`
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=y-vianney&show_icons=true&hide_border=true&theme=transparent" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-vianney&layout=compact&hide_border=true&theme=transparent" height="160"/>
@@ -25,5 +19,5 @@ Building software with **AI, automation** & **real-time data.**
   <img src="https://komarev.com/ghpvc/?username=y-vianney&style=flat-square"/>
 </p>
 
-> **Build. Break. Understand. Improve.**
+> **Stay Hungry. Stay Foolish.**
 
