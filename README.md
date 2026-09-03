@@ -1,18 +1,30 @@
-<h1 align="center">Hi 👋, I'm Yann Adjumany</h1>
-<h3 align="center">from Côte d'Ivoire</h3>
+## Hi 👋, I'm Yann Adjumany</h1>
+### Software Engineer · Junior Full-Stack Developer · AI Enthusiast 🇨🇮
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-vianney&label=Profile%20views&color=0e75b6&style=flat" alt="y-vianney" /> </p> -->
+Building software with **AI, automation** & **real-time data.**
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-vianney" alt="y-vianney" /></a> </p> -->
+### ⛓ Stack
 
-- 🔭 I’m currently working on **Private projects :)**
+`TypeScript` `Angular` `React` `Laravel` `Node.js` `Python` `C`
+`PostgreSQL` `Prisma` `Docker` `Linux`
 
-- 🌱 I’m currently learning **Bash and CPython**
+### 💡
 
-- 📫 How to reach me **adjumanyyann21@gmail.com**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=y-vianney&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-vianney&layout=compact&hide_border=true&theme=transparent" height="160"/>
+</p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-vianney&show_icons=true&locale=en&layout=compact" alt="y-vianney" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=y-vianney&hide_border=true&theme=transparent" height="160"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-vianney&show_icons=true&locale=en" alt="y-vianney" /></p> -->
+<p align="center">
+  <a href="https://github.com/y-vianney">
+    <img src="https://img.shields.io/github/followers/y-vianney?style=flat-square&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=y-vianney&style=flat-square"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y-vianney&" alt="y-vianney" /></p>
+> **Build. Break. Understand. Improve.**
+
